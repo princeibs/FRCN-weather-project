@@ -1,4 +1,4 @@
-# FRCN-weather-project
+# Weather Forecast
 A software application built for FRCN used to display the current weather status
 
 ## Demo
